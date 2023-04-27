@@ -56,6 +56,7 @@ endmodule
 
 ## Truth table:
 
+![image](https://user-images.githubusercontent.com/119401470/234774681-54a51b11-2458-4bc2-a528-259bf700a1a2.png)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
